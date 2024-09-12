@@ -1,0 +1,11 @@
+bs4
+langchain
+streamlit
+openai
+tiktoken
+python-dotenv
+pypdf
+st-pages
+pymongo
+python-docx
+pytest
